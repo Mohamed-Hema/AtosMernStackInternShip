@@ -20,31 +20,32 @@ footer a {
 }
 
 .w {
-
+  background:no-repeat center/contain url(/images/crash.png);
 }
 
 .a {
-
+  background:no-repeat center/contain url(/images/kick.png);
+  background-size: contain;
 }
 
 .s {
-
+  background:no-repeat center/contain url(/images/snare.png);
 }
 
 .d {
-
+  background:no-repeat center/contain url(/images/tom1.png);
 }
 
 .j {
-
+  background:no-repeat center/contain url(/images/tom2.png);
 }
 
 .k {
-
+  background:no-repeat center/contain url(/images/tom3.png);
 }
 
 .l {
-
+  background:no-repeat center/contain url(/images/tom4.png);
 }
 
 .set {
