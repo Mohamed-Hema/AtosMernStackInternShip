@@ -1,3 +1,4 @@
-$("h1").css("color", "green");
 
-$("button");
+$("button").on("click", function() {
+    $("h1").hide();
+})
