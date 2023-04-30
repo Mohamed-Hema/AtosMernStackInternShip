@@ -5,4 +5,4 @@
 
 
 ![alt text](https://1000logos.net/wp-content/uploads/2020/08/Logo-Atos.jpg)
-[[https://github.com/Mohamed-Hema/AtosMernStackInternShip/blob/master/Projects%20GIFS/DiceRoll.gif|alt=octocat]]
+![alt text]([https://1000logos.net/wp-content/uploads/2020/08/Logo-Atos.jpg](https://github.com/Mohamed-Hema/AtosMernStackInternShip/blob/master/Projects%20GIFS/DiceRoll.gif))
