@@ -10,7 +10,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static('public'));
 
-mongoose.connect('mongodb+srv://admin-hema:H48251357h@cluster0.rnaonuf.mongodb.net/test', { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false })
+mongoose.connect('mongodb+srv://<UserNmae>:<Password>@cluster0.rnaonuf.mongodb.net/test', { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false })
 
 const itemsSchema = new mongoose.Schema({
     name: String
