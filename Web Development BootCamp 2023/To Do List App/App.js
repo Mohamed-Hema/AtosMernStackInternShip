@@ -2,27 +2,35 @@
 
 const express = require("express");
 const bodyParser = require("body-parser");
+const ejs = require("ejs");
 
 const app = express();
 
 app.set('view engine', 'ejs');
 
+function getCurrentDay() {
+  const today = new Date();
 
-app.get("/", function(req, res) {
-
-var today = date.getDate();
-  var today = new Date();
-
-  var options = {
+  const options = {
     weekday: "long",
     day: "numeric",
     month: "long"
   };
-  var day = today.toLocalString("en-US", options);
-  res.render("List", {
-    kindOfDay: day
-  });
 
+  const day = today.toLocaleString("en-US", options);
+  return day;
+}
+
+// app.get("/", function(req, res) {
+//   const day = getCurrentDay();
+//   res.render("List", {
+//     kindOfDay: day
+//   });
+// });
+
+
+app.get("/", function(req, res){
+  res.render("home")
 });
 
 app.listen(3000, function() {
