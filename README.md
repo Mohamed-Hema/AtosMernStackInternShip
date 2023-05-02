@@ -8,20 +8,24 @@
 
 <h2><a href="https://webdevcamp-drumkit.netlify.app/" target="_blank">=> Drum Kit</a></h2>
 <br>
+
 ![alt text](https://github.com/Mohamed-Hema/AtosMernStackInternShip/blob/master/Projects%20GIFS/DrumKit.gif)
 
 <br>
 <h2><a href="https://webdevcamp-diceroll.netlify.app/" target="_blank">=> Dice Roll</a></h2>
 <br>
+
 ![alt text](https://github.com/Mohamed-Hema/AtosMernStackInternShip/blob/master/Projects%20GIFS/DiceRoll.gif)
 <br>
 
 <h2><a href="https://webdevcamp-simongame.netlify.app/" target="_blank">=> Simon Game</a></h2>
 <br>
+
 ![alt text](https://github.com/Mohamed-Hema/AtosMernStackInternShip/blob/master/Projects%20GIFS/SimonGame.gif)
 <br>
 
 <h2><a href="https://webdevcamp-tinydog.netlify.app/" target="_blank">=> Tiny Dog</a></h2>
 <br>
+
 ![alt text](https://github.com/Mohamed-Hema/AtosMernStackInternShip/blob/master/Projects%20GIFS/tinyDog.gif)
 <br>
