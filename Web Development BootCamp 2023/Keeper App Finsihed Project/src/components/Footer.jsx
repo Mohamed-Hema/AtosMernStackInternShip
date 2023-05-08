@@ -4,9 +4,18 @@ function Footer() {
   const year = new Date().getFullYear();
   return (
     <>
-    <footer>
-      <p>Copyright ⓒ {year}, Made with ❣️ <a href="https://github.com/Mohamed-Hema" target="_blank">Mohamed Hema</a></p>
-    </footer>
+      <footer>
+        <p>
+          Copyright ⓒ {year}, Made with ❣️{" "}
+          <a
+            href="https://github.com/Mohamed-Hema"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Mohamed Hema
+          </a>
+        </p>
+      </footer>
     </>
   );
 }
